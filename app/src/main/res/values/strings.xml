@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">registorForActivity</string>
+    <string name="edit_text">Edit text</string>
+    <string name="send">Send</string>
+</resources>
